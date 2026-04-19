@@ -1,0 +1,291 @@
+{"arxiv_id": "2305.20050", "title": "Let\u2019s Verify Step by Step", "year": "2024", "status": "downloaded", "bytes": 4384742, "source": "pre_existing"}
+{"arxiv_id": "2311.12983", "title": "GAIA: a benchmark for General AI Assistants", "year": "2024", "status": "downloaded", "bytes": 4254059, "source": "pre_existing"}
+{"arxiv_id": "2312.08935", "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations", "year": "2024", "status": "downloaded", "bytes": 827225, "source": "pre_existing"}
+{"arxiv_id": "2312.09187", "title": "Vision-Language Models as a Source of Rewards", "year": "2023", "status": "downloaded", "bytes": 1606333, "source": "pre_existing"}
+{"arxiv_id": "2402.03681", "title": "RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback", "year": "2024", "status": "downloaded", "bytes": 4776122, "source": "pre_existing"}
+{"arxiv_id": "2402.04764", "title": "Code as Reward: Empowering Reinforcement Learning with VLMs", "year": "2024", "status": "downloaded", "bytes": 1068184, "source": "pre_existing"}
+{"arxiv_id": "2402.05808", "title": "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning", "year": "2024", "status": "downloaded", "bytes": 1191123, "source": "pre_existing"}
+{"arxiv_id": "2402.12348", "title": "GTBench: Uncovering the strategic reasoning limitations of llms via game-theoretic evaluations", "year": "2024", "status": "downloaded", "bytes": 6513260, "source": "pre_existing"}
+{"arxiv_id": "2403.07718", "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?", "year": "2024", "status": "downloaded", "bytes": 7060004, "source": "pre_existing"}
+{"arxiv_id": "2403.11807", "title": "How Far Are We on the Decision-Making of LLMs? Evaluating LLMs\u2019 Gaming Ability in Multi-Agent Environments", "year": "2024", "status": "downloaded", "bytes": 2170907, "source": "pre_existing"}
+{"arxiv_id": "2403.13787", "title": "RewardBench", "year": "2025", "status": "downloaded", "bytes": 1121878, "source": "pre_existing"}
+{"arxiv_id": "2404.03648", "title": "AutoWebGLM: A Large Language Model-based Web Navigating Agent", "year": 2024, "status": "downloaded", "bytes": 8809918, "source": "pre_existing"}
+{"arxiv_id": "2404.07972", "title": "OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments", "year": "2024", "status": "downloaded", "bytes": 36863784, "source": "pre_existing"}
+{"arxiv_id": "2405.03379", "title": "Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning", "year": "2024", "status": "downloaded", "bytes": 11137947, "source": "pre_existing"}
+{"arxiv_id": "2406.06485", "title": "Can Language Models Serve as Text-Based World Simulators?", "year": "2024", "status": "downloaded", "bytes": 738785, "source": "pre_existing"}
+{"arxiv_id": "2406.06613", "title": "GameBench: Evaluating strategic reasoning abilities of llm agents", "year": "2024", "status": "downloaded", "bytes": 4568008, "source": "pre_existing"}
+{"arxiv_id": "2406.12045", "title": "\u03c4-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains", "year": "2024", "status": "downloaded", "bytes": 663224, "source": "pre_existing"}
+{"arxiv_id": "2408.07199", "title": "Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents", "year": "2025", "status": "downloaded", "bytes": 3772712, "source": "pre_existing"}
+{"arxiv_id": "2408.15240", "title": "Generative Verifiers: Reward Modeling as Next-Token Prediction", "year": "2025", "status": "downloaded", "bytes": 1015534, "source": "pre_existing"}
+{"arxiv_id": "2409.19256", "title": "HybridFlow: A Flexible and Efficient RLHF Framework", "year": "2024", "status": "downloaded", "bytes": 2177250, "source": "pre_existing"}
+{"arxiv_id": "2410.08821", "title": "DeepNote: Note-Centric Deep Retrieval-Augmented Generation", "year": "2024", "status": "downloaded", "bytes": 2253500, "source": "pre_existing"}
+{"arxiv_id": "2410.12832", "title": "Generative Reward Models", "year": "2025", "status": "downloaded", "bytes": 668384, "source": "pre_existing"}
+{"arxiv_id": "2411.02337", "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 10184269, "source": "pre_existing"}
+{"arxiv_id": "2411.13543", "title": "Balrog: Benchmarking agentic llm and vlm reasoning on games", "year": "2025", "status": "downloaded", "bytes": 4584091, "source": "pre_existing"}
+{"arxiv_id": "2411.17451", "title": "VL-RewardBench", "year": "2025", "status": "downloaded", "bytes": 939150, "source": "pre_existing"}
+{"arxiv_id": "2412.06394", "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games", "year": "2025", "status": "downloaded", "bytes": 1436031, "source": "pre_existing"}
+{"arxiv_id": "2412.06559", "title": "PROCESSBENCH", "year": "2025", "status": "downloaded", "bytes": 740748, "source": "pre_existing"}
+{"arxiv_id": "2412.14161", "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks", "year": "2024", "status": "downloaded", "bytes": 2169754, "source": "pre_existing"}
+{"arxiv_id": "2412.19723", "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis", "year": "2025", "status": "downloaded", "bytes": 3202773, "source": "pre_existing"}
+{"arxiv_id": "2501.03124", "title": "PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models", "year": "2025", "status": "downloaded", "bytes": 3431116, "source": "pre_existing"}
+{"arxiv_id": "2501.07301", "title": "The Lessons of Developing Process Reward Models in Mathematical Reasoning", "year": "2025", "status": "downloaded", "bytes": 715534, "source": "pre_existing"}
+{"arxiv_id": "2501.09136", "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG", "year": "2025", "status": "downloaded", "bytes": 14269078, "source": "pre_existing"}
+{"arxiv_id": "2501.12599", "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs", "year": 2025, "status": "downloaded", "bytes": 926045, "source": "pre_existing"}
+{"arxiv_id": "2501.12948", "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 5034998, "source": "pre_existing"}
+{"arxiv_id": "2501.15228", "title": "Improving Retrieval\u2011Augmented Generation through Multi\u2011Agent Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 864818, "source": "pre_existing"}
+{"arxiv_id": "2501.16664", "title": "Improving vision-language-action model with online reinforcement learning", "year": "2025", "status": "downloaded", "bytes": 1321910, "source": "pre_existing"}
+{"arxiv_id": "2502.01142", "title": "DeepRAG: Thinking to Retrieve Step by Step for Large Language Models", "year": "2025", "status": "downloaded", "bytes": 1158331, "source": "pre_existing"}
+{"arxiv_id": "2502.04644", "title": "Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research", "year": 2025, "status": "downloaded", "bytes": 2351637, "source": "pre_existing"}
+{"arxiv_id": "2502.11886", "title": "LIMR: Less is More for RL Scaling", "year": 2025, "status": "downloaded", "bytes": 488514, "source": "pre_existing"}
+{"arxiv_id": "2502.13957", "title": "RAG\u2011Gym: Systematic Optimization of Language Agents for Retrieval\u2011Augmented Generation", "year": "2025", "status": "downloaded", "bytes": 1515424, "source": "pre_existing"}
+{"arxiv_id": "2502.15760", "title": "Digi-Q: Learning Q-Value Functions for Training Device-Control Agents", "year": 2025, "status": "downloaded", "bytes": 8694404, "source": "pre_existing"}
+{"arxiv_id": "2503.00223", "title": "DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 980842, "source": "pre_existing"}
+{"arxiv_id": "2503.02682", "title": "MPO: Boosting LLM Agents with Meta Plan Optimization", "year": 2025, "status": "downloaded", "bytes": 1141780, "source": "pre_existing"}
+{"arxiv_id": "2503.05592", "title": "R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 3670460, "source": "pre_existing"}
+{"arxiv_id": "2503.06580", "title": "Agent models: Internalizing Chain-of-Action Generation into Reasoning models", "year": 2025, "status": "downloaded", "bytes": 1640649, "source": "pre_existing"}
+{"arxiv_id": "2503.09516", "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 645723, "source": "pre_existing"}
+{"arxiv_id": "2503.14476", "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale", "year": 2025, "status": "downloaded", "bytes": 826801, "source": "pre_existing"}
+{"arxiv_id": "2503.19470", "title": "ReCall: Learning to Reason with Tool Call for LLMs via Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 504446, "source": "pre_existing"}
+{"arxiv_id": "2503.21620", "title": "UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 15636590, "source": "pre_existing"}
+{"arxiv_id": "2503.22828", "title": "Learning to Reason for Long-Form Story Generation", "year": "2025", "status": "downloaded", "bytes": 1641093, "source": "pre_existing"}
+{"arxiv_id": "2503.23383", "title": "TORL: Scaling Tool-Integrated RL", "year": 2025, "status": "downloaded", "bytes": 565259, "source": "pre_existing"}
+{"arxiv_id": "2503.24290", "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model", "year": 2025, "status": "downloaded", "bytes": 1723875, "source": "pre_existing"}
+{"arxiv_id": "2504.02495", "title": "Inference-Time Scaling for Generalist Reward Modeling", "year": "2025", "status": "downloaded", "bytes": 1662951, "source": "pre_existing"}
+{"arxiv_id": "2504.03160", "title": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments", "year": 2025, "status": "downloaded", "bytes": 1159177, "source": "pre_existing"}
+{"arxiv_id": "2504.04736", "title": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use", "year": "2025", "status": "downloaded", "bytes": 1311894, "source": "pre_existing"}
+{"arxiv_id": "2504.05118", "title": "VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks", "year": 2025, "status": "downloaded", "bytes": 1129657, "source": "pre_existing"}
+{"arxiv_id": "2504.05812", "title": "Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization", "year": "2025", "status": "downloaded", "bytes": 5498614, "source": "pre_existing"}
+{"arxiv_id": "2504.10458", "title": "GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents", "year": "2025", "status": "downloaded", "bytes": 722727, "source": "pre_existing"}
+{"arxiv_id": "2504.11001", "title": "ReZero: Enhancing LLM Search Ability by Trying One\u2011More\u2011Time", "year": "2025", "status": "downloaded", "bytes": 502701, "source": "pre_existing"}
+{"arxiv_id": "2504.11343", "title": "A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce", "year": 2025, "status": "downloaded", "bytes": 699223, "source": "pre_existing"}
+{"arxiv_id": "2504.11536", "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs", "year": 2025, "status": "downloaded", "bytes": 1409501, "source": "pre_existing"}
+{"arxiv_id": "2504.12516", "title": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents", "year": "2025", "status": "downloaded", "bytes": 183067, "source": "pre_existing"}
+{"arxiv_id": "2504.13958", "title": "ToolRL: Reward is All Tool Learning Needs", "year": 2025, "status": "downloaded", "bytes": 2475493, "source": "pre_existing"}
+{"arxiv_id": "2504.14239", "title": "InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners", "year": 2025, "status": "downloaded", "bytes": 2435912, "source": "pre_existing"}
+{"arxiv_id": "2504.14870", "title": "OTC: Optimal Tool Calls via Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 4597896, "source": "pre_existing"}
+{"arxiv_id": "2504.15909", "title": "Synergizing RAG and Reasoning: A Systematic Review", "year": "2025", "status": "downloaded", "bytes": 13871512, "source": "pre_existing"}
+{"arxiv_id": "2504.16084", "title": "TTRL: Test-Time Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 697629, "source": "pre_existing"}
+{"arxiv_id": "2504.16656", "title": "Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning", "year": 2025, "status": "downloaded", "bytes": 1712518, "source": "pre_existing"}
+{"arxiv_id": "2504.17282", "title": "Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 1562160, "source": "pre_existing"}
+{"arxiv_id": "2504.19314", "title": "BrowseComp-ZH: Benchmarking the Web Browsing Ability of Large Language Models in Chinese", "year": 2025, "status": "downloaded", "bytes": 641173, "source": "pre_existing"}
+{"arxiv_id": "2504.20073", "title": "RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1811298, "source": "pre_existing"}
+{"arxiv_id": "2504.21776", "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability", "year": "2025", "status": "downloaded", "bytes": 1072737, "source": "pre_existing"}
+{"arxiv_id": "2505.01441", "title": "Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1557778, "source": "pre_existing"}
+{"arxiv_id": "2505.03335", "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data", "year": "2025", "status": "downloaded", "bytes": 5392851, "source": "pre_existing"}
+{"arxiv_id": "2505.04588", "title": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching", "year": 2025, "status": "downloaded", "bytes": 1039918, "source": "pre_existing"}
+{"arxiv_id": "2505.07596", "title": "Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent", "year": "2025", "status": "downloaded", "bytes": 1263213, "source": "pre_existing"}
+{"arxiv_id": "2505.07773", "title": "Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving", "year": "2025", "status": "downloaded", "bytes": 2119987, "source": "pre_existing"}
+{"arxiv_id": "2505.09558", "title": "WavReward: Spoken Dialogue Models With Generalist Reward Evaluators", "year": "2025", "status": "downloaded", "bytes": 11502515, "source": "pre_existing"}
+{"arxiv_id": "2505.10527", "title": "WorldPM: Scaling Human Preference Modeling", "year": "2025", "status": "downloaded", "bytes": 12111402, "source": "pre_existing"}
+{"arxiv_id": "2505.10978", "title": "Group-in-Group Policy Optimization for LLM Agent Training", "year": "2025", "status": "downloaded", "bytes": 2195797, "source": "pre_existing"}
+{"arxiv_id": "2505.11277", "title": "Search and Refine During Think: Facilitating Knowledge Refinement for Improved Retrieval-Augmented Reasoning", "year": "2025", "status": "downloaded", "bytes": 1048956, "source": "pre_existing"}
+{"arxiv_id": "2505.11821", "title": "Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment", "year": "2025", "status": "downloaded", "bytes": 2367271, "source": "pre_existing"}
+{"arxiv_id": "2505.13886", "title": "Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning", "year": "2025", "status": "downloaded", "bytes": 10944278, "source": "downloaded"}
+{"arxiv_id": "2505.14069", "title": "Process vs. Outcome Reward: Which Is Better for Agentic RAG Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1304146, "source": "pre_existing"}
+{"arxiv_id": "2505.14146", "title": "s3: You Don\u2019t Need That Much Data to Train a Search Agent via RL", "year": "2025", "status": "downloaded", "bytes": 1305154, "source": "pre_existing"}
+{"arxiv_id": "2505.14246", "title": "Visual Agentic Reinforcement Fine\u2011Tuning", "year": "2025", "status": "downloaded", "bytes": 2758727, "source": "pre_existing"}
+{"arxiv_id": "2505.14362", "title": "DeepEyes: Incentivizing \"Thinking with Images\" via Reinforcement Learning", "year": 2026, "status": "downloaded", "bytes": 6966235, "source": "downloaded"}
+{"arxiv_id": "2505.15107", "title": "StepSearch: Igniting LLMs\u2019 Search Ability via Step\u2011Wise Proximal Policy Optimization", "year": "2025", "status": "downloaded", "bytes": 1564453, "source": "downloaded"}
+{"arxiv_id": "2505.15776", "title": "ConvSearch\u2011R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1716781, "source": "downloaded"}
+{"arxiv_id": "2505.16282", "title": "ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay", "year": 2025, "status": "downloaded", "bytes": 1990683, "source": "downloaded"}
+{"arxiv_id": "2505.16410", "title": "Tool\u2011Star: Empowering LLM\u2011Brained Multi\u2011Tool Reasoner via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 2085774, "source": "downloaded"}
+{"arxiv_id": "2505.16582", "title": "O\u00b2\u2011Searcher: A Searching\u2011Based Agent Model for Open\u2011Domain Open\u2011Ended Question Answering", "year": "2025", "status": "downloaded", "bytes": 2334204, "source": "downloaded"}
+{"arxiv_id": "2505.16834", "title": "SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis", "year": "2025", "status": "downloaded", "bytes": 871265, "source": "downloaded"}
+{"arxiv_id": "2505.16984", "title": "UFT: Unifying Supervised and Reinforcement Fine-Tuning", "year": "2025", "status": "downloaded", "bytes": 1123814, "source": "downloaded"}
+{"arxiv_id": "2505.17005", "title": "R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 965717, "source": "downloaded"}
+{"arxiv_id": "2505.17016", "title": "Interactive Post-Training for Vision-Language-Action Models", "year": "2025", "status": "downloaded", "bytes": 4973942, "source": "downloaded"}
+{"arxiv_id": "2505.17086", "title": "Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1261546, "source": "downloaded"}
+{"arxiv_id": "2505.17281", "title": "Search Wisely: Mitigating Sub\u2011Optimal Agentic Searches by Reducing Uncertainty", "year": "2025", "status": "downloaded", "bytes": 603626, "source": "downloaded"}
+{"arxiv_id": "2505.18719", "title": "VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 2007068, "source": "downloaded"}
+{"arxiv_id": "2505.19253", "title": "DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research", "year": "2025", "status": "downloaded", "bytes": 615811, "source": "downloaded"}
+{"arxiv_id": "2505.19590", "title": "Learning to Reason without External Rewards", "year": "2025", "status": "downloaded", "bytes": 1679361, "source": "downloaded"}
+{"arxiv_id": "2505.19641", "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond", "year": "2025", "status": "downloaded", "bytes": 2006991, "source": "downloaded"}
+{"arxiv_id": "2505.19789", "title": "What Can RL Bring to VLA Generalization?", "year": "2025", "status": "downloaded", "bytes": 12642573, "source": "downloaded"}
+{"arxiv_id": "2505.19897", "title": "ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows", "year": "2025", "status": "downloaded", "bytes": 15827464, "source": "downloaded"}
+{"arxiv_id": "2505.19914", "title": "Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles", "year": "2025", "status": "downloaded", "bytes": 5681569, "source": "downloaded"}
+{"arxiv_id": "2505.20128", "title": "ExSearch", "year": "2025", "status": "downloaded", "bytes": 1761186, "source": "downloaded"}
+{"arxiv_id": "2505.20282", "title": "Can Large Reasoning Models Self-Train", "year": "2025", "status": "downloaded", "bytes": 381009, "source": "pre_existing"}
+{"arxiv_id": "2505.20285", "title": "MaskSearch: A Universal Pre\u2011Training Framework to Enhance Agentic Search Capability", "year": "2025", "status": "downloaded", "bytes": 1572153, "source": "downloaded"}
+{"arxiv_id": "2505.20289", "title": "VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection", "year": 2025, "status": "downloaded", "bytes": 1634261, "source": "downloaded"}
+{"arxiv_id": "2505.21493", "title": "VeriFree: Reinforcing General Reasoning without Verifiers", "year": "2025", "status": "downloaded", "bytes": 829239, "source": "downloaded"}
+{"arxiv_id": "2505.22019", "title": "VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1396418, "source": "downloaded"}
+{"arxiv_id": "2505.22501", "title": "EvolveSearch: An Iterative Self\u2011Evolving Search Agent", "year": "2025", "status": "downloaded", "bytes": 1041741, "source": "downloaded"}
+{"arxiv_id": "2505.22617", "title": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models", "year": "2025", "status": "downloaded", "bytes": 2983364, "source": "downloaded"}
+{"arxiv_id": "2505.22648", "title": "WebDancer: Towards Autonomous Information Seeking Agency", "year": "2025", "status": "downloaded", "bytes": 1209450, "source": "downloaded"}
+{"arxiv_id": "2505.22660", "title": "Maximizing Confidence Alone Improves Reasoning", "year": "2025", "status": "downloaded", "bytes": 1009509, "source": "downloaded"}
+{"arxiv_id": "2505.24332", "title": "Pangu DeepDiver: Adaptive Search Intensity Scaling via Open\u2011Web Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1756975, "source": "downloaded"}
+{"arxiv_id": "2506.01391", "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning", "year": "2025", "status": "downloaded", "bytes": 2602290, "source": "downloaded"}
+{"arxiv_id": "2506.01716", "title": "Self-Challenging Language Model Agents", "year": 2025, "status": "downloaded", "bytes": 1093696, "source": "downloaded"}
+{"arxiv_id": "2506.04185", "title": "R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 1294831, "source": "downloaded"}
+{"arxiv_id": "2506.07528", "title": "Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification", "year": "2025", "status": "downloaded", "bytes": 16577329, "source": "downloaded"}
+{"arxiv_id": "2506.08007", "title": "Reinforcement Pre-training", "year": "2025", "status": "downloaded", "bytes": 1486596, "source": "downloaded"}
+{"arxiv_id": "2506.08011", "title": "Play to Generalize: Learning to Reason Through Game Play", "year": "2025", "status": "downloaded", "bytes": 2433761, "source": "downloaded"}
+{"arxiv_id": "2506.10408", "title": "Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges", "year": "2025", "status": "downloaded", "bytes": 655690, "source": "downloaded"}
+{"arxiv_id": "2506.10947", "title": "Spurious Rewards: Rethinking Training Signals in RLVR", "year": "2025", "status": "downloaded", "bytes": 4286133, "source": "downloaded"}
+{"arxiv_id": "2506.13651", "title": "xbench: Tracking Agents Productivity Scaling With Profession-Aligned Real-World Evaluations", "year": 2025, "status": "downloaded", "bytes": 1618265, "source": "downloaded"}
+{"arxiv_id": "2506.14205", "title": "AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents", "year": "2025", "status": "downloaded", "bytes": 951884, "source": "downloaded"}
+{"arxiv_id": "2506.15841", "title": "MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents", "year": 2025, "status": "downloaded", "bytes": 4492356, "source": "downloaded"}
+{"arxiv_id": "2506.18096", "title": "Deep Research Agents: A Systematic Examination And Roadmap", "year": 2025, "status": "downloaded", "bytes": 2777679, "source": "downloaded"}
+{"arxiv_id": "2506.18254", "title": "RLPR: Extrapolating RLVR to General Domains without Verifiers", "year": "2025", "status": "downloaded", "bytes": 744951, "source": "downloaded"}
+{"arxiv_id": "2506.20670", "title": "MMSearch-R1: Incentivizing LMMs to Search", "year": 2025, "status": "downloaded", "bytes": 11098327, "source": "downloaded"}
+{"arxiv_id": "2506.24119", "title": "SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 3556844, "source": "downloaded"}
+{"arxiv_id": "2507.01679", "title": "Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling", "year": "2025", "status": "downloaded", "bytes": 728519, "source": "downloaded"}
+{"arxiv_id": "2507.02259", "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL based Memory Agent", "year": 2025, "status": "downloaded", "bytes": 6381652, "source": "downloaded"}
+{"arxiv_id": "2507.02592", "title": "WebSailor: Navigating Super-human Reasoning for Web Agent", "year": 2025, "status": "downloaded", "bytes": 1355518, "source": "downloaded"}
+{"arxiv_id": "2507.02962", "title": "RAG\u2011R1: Incentivizing the Search and Reasoning Capabilities of LLMs through Multi\u2011Query Parallelism", "year": "2025", "status": "downloaded", "bytes": 694106, "source": "downloaded"}
+{"arxiv_id": "2507.05197", "title": "POLAR\uff1aPre-Trained Policy Discriminators are General Reward Models", "year": "2025", "status": "downloaded", "bytes": 13861189, "source": "downloaded"}
+{"arxiv_id": "2507.14295", "title": "UFO: A Simple \"Try Again\" Can Elicit Multi-Turn LLM Reasoning", "year": 2025, "status": "downloaded", "bytes": 2500578, "source": "downloaded"}
+{"arxiv_id": "2507.15061", "title": "WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization", "year": 2025, "status": "downloaded", "bytes": 3393112, "source": "downloaded"}
+{"arxiv_id": "2507.17365", "title": "DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi\u2011Reward Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 598185, "source": "downloaded"}
+{"arxiv_id": "2507.17849", "title": "Dynamic and Generalizable Process Reward Modeling", "year": "2025", "status": "downloaded", "bytes": 1147462, "source": "downloaded"}
+{"arxiv_id": "2507.18071", "title": "Group Sequence Policy Optimization", "year": 2025, "status": "downloaded", "bytes": 458773, "source": "downloaded"}
+{"arxiv_id": "2507.19849", "title": "ARPO: Agentic Reinforced Policy Optimization", "year": 2025, "status": "downloaded", "bytes": 3202153, "source": "downloaded"}
+{"arxiv_id": "2508.00360", "title": "Lucy: edgerunning agentic web search on mobile with machine generated task vectors", "year": "2025", "status": "downloaded", "bytes": 488266, "source": "downloaded"}
+{"arxiv_id": "2508.00414", "title": "Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training", "year": 2025, "status": "downloaded", "bytes": 1124132, "source": "downloaded"}
+{"arxiv_id": "2508.01005", "title": "MAO\u2011ARAG: Multi\u2011Agent Orchestration for Adaptive Retrieval\u2011Augmented Generation", "year": "2025", "status": "downloaded", "bytes": 8224756, "source": "downloaded"}
+{"arxiv_id": "2508.03682", "title": "Self-Questioning Language Models", "year": "2025", "status": "downloaded", "bytes": 502013, "source": "downloaded"}
+{"arxiv_id": "2508.04280", "title": "Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success", "year": "2025", "status": "downloaded", "bytes": 1489650, "source": "downloaded"}
+{"arxiv_id": "2508.05004", "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data", "year": "2025", "status": "downloaded", "bytes": 782893, "source": "downloaded"}
+{"arxiv_id": "2508.05498", "title": "GRAIL: Learning to Interact with Large Knowledge Graphs for Retrieval\u2011Augmented Reasoning", "year": "2025", "status": "downloaded", "bytes": 900911, "source": "downloaded"}
+{"arxiv_id": "2508.05668", "title": "A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges", "year": 2025, "status": "downloaded", "bytes": 1715612, "source": "pre_existing"}
+{"arxiv_id": "2508.05748", "title": "WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent", "year": "2025", "status": "downloaded", "bytes": 3072155, "source": "pre_existing"}
+{"arxiv_id": "2508.06165", "title": "UR\u00b2: Unify RAG and Reasoning through Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 10059710, "source": "pre_existing"}
+{"arxiv_id": "2508.06600", "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent", "year": 2025, "status": "downloaded", "bytes": 2405417, "source": "pre_existing"}
+{"arxiv_id": "2508.07976", "title": "Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL", "year": 2025, "status": "downloaded", "bytes": 9727693, "source": "downloaded"}
+{"arxiv_id": "2508.08636", "title": "InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling", "year": "2025", "status": "downloaded", "bytes": 3536177, "source": "pre_existing"}
+{"arxiv_id": "2508.09123", "title": "OPENCUA: OpenFoundations for Computer-Use Agents", "year": 2025, "status": "downloaded", "bytes": 21581239, "source": "downloaded"}
+{"arxiv_id": "2508.09303", "title": "ParallelSearch: Train Your LLMs to Decompose Query and Search Sub\u2011Queries in Parallel with Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1063758, "source": "pre_existing"}
+{"arxiv_id": "2508.10874", "title": "SSRL: Self-Search Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 2919042, "source": "downloaded"}
+{"arxiv_id": "2508.12800", "title": "Atom\u2011Searcher: Enhancing Agentic Deep Research via Fine\u2011Grained Atomic Thought Reward", "year": "2025", "status": "downloaded", "bytes": 1813607, "source": "pre_existing"}
+{"arxiv_id": "2508.13009", "title": "Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model", "year": "2025", "status": "downloaded", "bytes": 37452352, "source": "downloaded"}
+{"arxiv_id": "2508.13167", "title": "Chain\u2011of\u2011Agents: End\u2011to\u2011End Agent Foundation Models via Multi\u2011Agent Distillation and Agentic RL", "year": "2025", "status": "downloaded", "bytes": 5917223, "source": "downloaded"}
+{"arxiv_id": "2508.13186", "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents", "year": 2026, "status": "downloaded", "bytes": 7256229, "source": "downloaded"}
+{"arxiv_id": "2508.14880", "title": "MedResearcher\u2011R1: Expert\u2011Level Medical Deep Researcher via a Knowledge\u2011Informed Trajectory Synthesis Framework", "year": "2025", "status": "downloaded", "bytes": 6487872, "source": "downloaded"}
+{"arxiv_id": "2508.15804", "title": "ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks", "year": "2025", "status": "downloaded", "bytes": 729607, "source": "downloaded"}
+{"arxiv_id": "2508.16438", "title": "OPERA: A Reinforcement Learning\u2013Enhanced Orchestrated Planner\u2011Executor Architecture for Reasoning\u2011Oriented Multi\u2011Hop Retrieval", "year": "2025", "status": "downloaded", "bytes": 6256679, "source": "downloaded"}
+{"arxiv_id": "2508.20033", "title": "DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis", "year": "2025", "status": "downloaded", "bytes": 1313253, "source": "downloaded"}
+{"arxiv_id": "2508.20368", "title": "AI\u2011SearchPlanner: Modular Agentic Search via Pareto\u2011Optimal Multi\u2011Objective Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 540929, "source": "downloaded"}
+{"arxiv_id": "2508.21475", "title": "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents", "year": 2025, "status": "downloaded", "bytes": 28156127, "source": "downloaded"}
+{"arxiv_id": "2509.01055", "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use", "year": 2025, "status": "downloaded", "bytes": 3084598, "source": "downloaded"}
+{"arxiv_id": "2509.02544", "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 17410516, "source": "downloaded"}
+{"arxiv_id": "2509.02547", "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey", "year": 2025, "status": "downloaded", "bytes": 9660619, "source": "downloaded"}
+{"arxiv_id": "2509.06283", "title": "SFR\u2011DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents", "year": "2025", "status": "downloaded", "bytes": 1241957, "source": "downloaded"}
+{"arxiv_id": "2509.06501", "title": "WebExplorer: Explore and Evolve for Training Long\u2011Horizon Web Agents", "year": "2025", "status": "downloaded", "bytes": 833071, "source": "downloaded"}
+{"arxiv_id": "2509.06733", "title": "Reinforcement Learning Foundations for Deep Research Systems: A Survey", "year": "2025", "status": "downloaded", "bytes": 3610574, "source": "downloaded"}
+{"arxiv_id": "2509.08755", "title": "AgentGym\u2011RL: Training LLM Agents for Long\u2011Horizon Decision Making through Multi\u2011Turn Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 11939091, "source": "downloaded"}
+{"arxiv_id": "2509.10446", "title": "DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL", "year": "2025", "status": "downloaded", "bytes": 768190, "source": "downloaded"}
+{"arxiv_id": "2509.13160", "title": "FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning", "year": 2025, "status": "downloaded", "bytes": 1386528, "source": "downloaded"}
+{"arxiv_id": "2509.13305", "title": "WebSailor\u2011V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 4319305, "source": "downloaded"}
+{"arxiv_id": "2509.13309", "title": "WebResearcher: Unleashing unbounded reasoning capability in Long\u2011Horizon Agents", "year": "2025", "status": "downloaded", "bytes": 8878082, "source": "downloaded"}
+{"arxiv_id": "2509.13313", "title": "ReSum: Unlocking Long\u2011Horizon Search Intelligence via Context Summarization", "year": "2025", "status": "downloaded", "bytes": 1360337, "source": "downloaded"}
+{"arxiv_id": "2509.18167", "title": "SIRAG: Towards Stable and Interpretable RAG with a Process\u2011Supervised Multi\u2011Agent Framework", "year": "2025", "status": "downloaded", "bytes": 1073159, "source": "downloaded"}
+{"arxiv_id": "2509.21240", "title": "Tree Search for LLM Agent Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 1377929, "source": "downloaded"}
+{"arxiv_id": "2509.24193", "title": "AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play", "year": "2025", "status": "downloaded", "bytes": 1371244, "source": "downloaded"}
+{"arxiv_id": "2510.05592", "title": "In-the-Flow Agentic System Optimization for Effective Planning and Tool Use", "year": "2025", "status": "downloaded", "bytes": 1960010, "source": "downloaded"}
+{"arxiv_id": "2510.10448", "title": "RECON: Reasoning with Condensation for Efficient Retrieval\u2011Augmented Generation", "year": "2025", "status": "downloaded", "bytes": 452792, "source": "downloaded"}
+{"arxiv_id": "2510.13272", "title": "Beyond Correctness: Rewarding Faithful Reasoning in Retrieval\u2011Augmented Generation", "year": "2025", "status": "downloaded", "bytes": 1234542, "source": "downloaded"}
+{"arxiv_id": "2510.13786", "title": "The Art of Scaling Reinforcement Learning Compute for LLMs", "year": 2025, "status": "downloaded", "bytes": 4092502, "source": "downloaded"}
+{"arxiv_id": "2510.14253", "title": "Towards Agentic Self-Learning LLMs in Search Environment", "year": "2025", "status": "downloaded", "bytes": 639355, "source": "downloaded"}
+{"arxiv_id": "2510.14967", "title": "Information Gain-based Policy Optimization: A Simple and Effective Approach for Multi-Turn Search Agents", "year": "2025", "status": "downloaded", "bytes": 2915370, "source": "downloaded"}
+{"arxiv_id": "2510.16724", "title": "A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications", "year": "2025", "status": "downloaded", "bytes": 1325517, "source": "downloaded"}
+{"arxiv_id": "2510.18821", "title": "Search Self-play: Pushing the Frontier of Agent Capability without Supervision", "year": "2025", "status": "downloaded", "bytes": 2190722, "source": "downloaded"}
+{"arxiv_id": "2510.20168", "title": "Marco Search Agent: Towards Real\u2011World and Challenging Agentic Search (including HSCodeComp and DeepWideSearch)", "year": 2025, "status": "downloaded", "bytes": 1504428, "source": "downloaded"}
+{"arxiv_id": "2510.20548", "title": "GlobalRAG: Enhancing Global Reasoning in Multi-hop Question Answering via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 2777597, "source": "downloaded"}
+{"arxiv_id": "2510.23038", "title": "Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning", "year": 2025, "status": "downloaded", "bytes": 1393674, "source": "downloaded"}
+{"arxiv_id": "2510.27569", "title": "MARAG-R1: Beyond Single Retriever via Reinforcement-Learned Multi-Tool Agentic Retrieval", "year": "2025", "status": "downloaded", "bytes": 1272402, "source": "downloaded"}
+{"arxiv_id": "2511.02805", "title": "MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1844162, "source": "downloaded"}
+{"arxiv_id": "2511.05271", "title": "DeepEyesV2: Toward Agentic Multimodal Model", "year": 2026, "status": "downloaded", "bytes": 9111130, "source": "downloaded"}
+{"arxiv_id": "2511.05385", "title": "TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework", "year": "2025", "status": "downloaded", "bytes": 2260797, "source": "downloaded"}
+{"arxiv_id": "2511.07327", "title": "IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction", "year": 2025, "status": "downloaded", "bytes": 4744582, "source": "downloaded"}
+{"arxiv_id": "2511.07943", "title": "Thinker: Training LLMs in Hierarchical Thinking for Deep Search via Multi-Turn Interaction", "year": "2025", "status": "downloaded", "bytes": 936392, "source": "downloaded"}
+{"arxiv_id": "2511.12159", "title": "CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic", "year": "2025", "status": "downloaded", "bytes": 1132348, "source": "downloaded"}
+{"arxiv_id": "2511.14460", "title": "Agent\u2011R1: Training Powerful LLM Agents with End\u2011to\u2011End Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 1097216, "source": "downloaded"}
+{"arxiv_id": "2511.16043", "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning", "year": 2025, "status": "downloaded", "bytes": 9668150, "source": "downloaded"}
+{"arxiv_id": "2511.19900", "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning", "year": 2025, "status": "downloaded", "bytes": 2868258, "source": "downloaded"}
+{"arxiv_id": "2512.01311", "title": "CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL", "year": "2025", "status": "downloaded", "bytes": 2709007, "source": "downloaded"}
+{"arxiv_id": "2512.02038", "title": "Deep Research: A Systematic Survey", "year": "2025", "status": "downloaded", "bytes": 9905486, "source": "downloaded"}
+{"arxiv_id": "2512.04220", "title": "On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement", "year": "2025", "status": "downloaded", "bytes": 2610747, "source": "downloaded"}
+{"arxiv_id": "2512.04949", "title": "CARL: Focusing Agentic Reinforcement Learning on Critical Actions", "year": "2025", "status": "downloaded", "bytes": 862304, "source": "downloaded"}
+{"arxiv_id": "2512.09487", "title": "RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 2551106, "source": "downloaded"}
+{"arxiv_id": "2512.18552", "title": "Toward Training Superintelligent Software Agents through Self-Play SWE-RL", "year": 2025, "status": "downloaded", "bytes": 1159612, "source": "downloaded"}
+{"arxiv_id": "2512.24330", "title": "SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning", "year": "2025", "status": "downloaded", "bytes": 5865185, "source": "downloaded"}
+{"arxiv_id": "2601.03555", "title": "SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models", "year": "2026", "status": "downloaded", "bytes": 579549, "source": "downloaded"}
+{"arxiv_id": "2601.04703", "title": "Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search", "year": "2026", "status": "downloaded", "bytes": 6648176, "source": "downloaded"}
+{"arxiv_id": "2601.04767", "title": "AT$^2$PO: Agentic Turn-based Policy Optimization via Tree Search", "year": "2026", "status": "downloaded", "bytes": 1479694, "source": "downloaded"}
+{"arxiv_id": "2601.04888", "title": "SmartSearch: Process Reward-Guided Query Refinement for Search Agents", "year": "2026", "status": "downloaded", "bytes": 1209582, "source": "downloaded"}
+{"arxiv_id": "2601.05465", "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering", "year": "2026", "status": "downloaded", "bytes": 13175918, "source": "downloaded"}
+{"arxiv_id": "2601.06021", "title": "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards", "year": "2026", "status": "downloaded", "bytes": 5315924, "source": "downloaded"}
+{"arxiv_id": "2601.06487", "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking", "year": 2026, "status": "downloaded", "bytes": 2137875, "source": "downloaded"}
+{"arxiv_id": "2601.06676", "title": "IDRBench: Interactive Deep Research Benchmark", "year": "2026", "status": "downloaded", "bytes": 7029809, "source": "downloaded"}
+{"arxiv_id": "2601.06922", "title": "TreePS-RAG: Tree-based Process Supervision for Reinforcement Learning in Agentic RAG", "year": "2026", "status": "downloaded", "bytes": 760460, "source": "downloaded"}
+{"arxiv_id": "2601.06943", "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning", "year": 2026, "status": "downloaded", "bytes": 7278281, "source": "downloaded"}
+{"arxiv_id": "2601.07376", "title": "OpenTinker: Separating Concerns in Agentic Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 1516419, "source": "downloaded"}
+{"arxiv_id": "2601.08282", "title": "D$^2$Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning", "year": "2026", "status": "downloaded", "bytes": 1284246, "source": "downloaded"}
+{"arxiv_id": "2601.08536", "title": "DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report", "year": "2026", "status": "downloaded", "bytes": 1568107, "source": "downloaded"}
+{"arxiv_id": "2601.09688", "title": "DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation", "year": "2026", "status": "downloaded", "bytes": 2019220, "source": "downloaded"}
+{"arxiv_id": "2601.10504", "title": "DR-Arena: an Automated Evaluation Framework for Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 3979455, "source": "downloaded"}
+{"arxiv_id": "2601.11037", "title": "BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search", "year": "2026", "status": "downloaded", "bytes": 3496277, "source": "downloaded"}
+{"arxiv_id": "2601.11888", "title": "Agentic-R: Learning to Retrieve for Agentic Search", "year": "2026", "status": "downloaded", "bytes": 997857, "source": "downloaded"}
+{"arxiv_id": "2601.12346", "title": "MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 2397622, "source": "downloaded"}
+{"arxiv_id": "2601.12538", "title": "Agentic Reasoning for Large Language Models", "year": "2026", "status": "downloaded", "bytes": 9857705, "source": "downloaded"}
+{"arxiv_id": "2601.13115", "title": "Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 490969, "source": "downloaded"}
+{"arxiv_id": "2601.14615", "title": "SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation", "year": "2026", "status": "downloaded", "bytes": 12664865, "source": "downloaded"}
+{"arxiv_id": "2601.17617", "title": "Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests", "year": "2026", "status": "downloaded", "bytes": 2805436, "source": "downloaded"}
+{"arxiv_id": "2601.18467", "title": "OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 1327857, "source": "downloaded"}
+{"arxiv_id": "2601.20439", "title": "PEARL: Plan Exploration and Adaptive Reinforcement Learning for Multihop Tool Use", "year": "2026", "status": "downloaded", "bytes": 882769, "source": "downloaded"}
+{"arxiv_id": "2601.20975", "title": "DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 655047, "source": "downloaded"}
+{"arxiv_id": "2601.21208", "title": "When should I search more: Adaptive Complex Query Optimization with Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 2156343, "source": "downloaded"}
+{"arxiv_id": "2601.21654", "title": "ScholarGym: Benchmarking Large Language Model Capabilities in the Information-Gathering Stage of Deep Research", "year": "2026", "status": "downloaded", "bytes": 857387, "source": "downloaded"}
+{"arxiv_id": "2601.21912", "title": "ProRAG: Process-Supervised Reinforcement Learning for Retrieval-Augmented Generation", "year": "2026", "status": "downloaded", "bytes": 1298644, "source": "downloaded"}
+{"arxiv_id": "2602.00994", "title": "Reasoning and Tool-use Compete in Agentic RL: From Quantifying Interference to Disentangled Tuning", "year": "2026", "status": "downloaded", "bytes": 3535271, "source": "downloaded"}
+{"arxiv_id": "2602.01590", "title": "Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles", "year": "2026", "status": "downloaded", "bytes": 1909057, "source": "downloaded"}
+{"arxiv_id": "2602.02185", "title": "Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models", "year": 2026, "status": "downloaded", "bytes": 5560082, "source": "downloaded"}
+{"arxiv_id": "2602.03304", "title": "To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention", "year": "2026", "status": "downloaded", "bytes": 1062205, "source": "downloaded"}
+{"arxiv_id": "2602.03468", "title": "IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 4156913, "source": "downloaded"}
+{"arxiv_id": "2602.03647", "title": "Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration", "year": "2026", "status": "downloaded", "bytes": 1970542, "source": "downloaded"}
+{"arxiv_id": "2602.03719", "title": "Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling", "year": "2026", "status": "downloaded", "bytes": 1235243, "source": "downloaded"}
+{"arxiv_id": "2602.04284", "title": "Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 3313586, "source": "downloaded"}
+{"arxiv_id": "2602.04634", "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 1682709, "source": "downloaded"}
+{"arxiv_id": "2602.05975", "title": "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 1060575, "source": "downloaded"}
+{"arxiv_id": "2602.07359", "title": "W&D: Scaling Parallel Tool Calling for Efficient Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 747226, "source": "downloaded"}
+{"arxiv_id": "2602.08234", "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning", "year": 2026, "status": "downloaded", "bytes": 13153200, "source": "downloaded"}
+{"arxiv_id": "2602.11551", "title": "SIGHT: Reinforcement Learning with Self-Evidence and Information-Gain Diverse Branching for Search Agent", "year": "2026", "status": "downloaded", "bytes": 4053106, "source": "downloaded"}
+{"arxiv_id": "2602.11685", "title": "DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity", "year": "2026", "status": "downloaded", "bytes": 1228997, "source": "downloaded"}
+{"arxiv_id": "2602.11858", "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception", "year": 2026, "status": "downloaded", "bytes": 11850255, "source": "downloaded"}
+{"arxiv_id": "2602.14234", "title": "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents", "year": 2026, "status": "downloaded", "bytes": 15383466, "source": "downloaded"}
+{"arxiv_id": "2602.18940", "title": "DREAM: Deep Research Evaluation with Agentic Metrics", "year": "2026", "status": "downloaded", "bytes": 6393636, "source": "downloaded"}
+{"arxiv_id": "2602.19526", "title": "How to Train Your Deep Research Agent? Prompt, Reward, and Policy Optimization in Search-R1", "year": "2026", "status": "downloaded", "bytes": 1244938, "source": "downloaded"}
+{"arxiv_id": "2602.21456", "title": "Revisiting Text Ranking in Deep Research", "year": "2026", "status": "downloaded", "bytes": 699650, "source": "downloaded"}
+{"arxiv_id": "2602.21534", "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 6334896, "source": "downloaded"}
+{"arxiv_id": "2602.22576", "title": "Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training", "year": "2026", "status": "downloaded", "bytes": 712828, "source": "downloaded"}
+{"arxiv_id": "2602.22675", "title": "Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization", "year": "2026", "status": "downloaded", "bytes": 1858164, "source": "downloaded"}
+{"arxiv_id": "2602.22897", "title": "OmniGAIA: Towards Native Omni-Modal AI Agents", "year": 2026, "status": "downloaded", "bytes": 4439940, "source": "downloaded"}
+{"arxiv_id": "2602.23166", "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios", "year": 2026, "status": "downloaded", "bytes": 15882933, "source": "downloaded"}
+{"arxiv_id": "2603.01050", "title": "MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline", "year": "2026", "status": "downloaded", "bytes": 4096641, "source": "downloaded"}
+{"arxiv_id": "2603.01152", "title": "DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent", "year": "2026", "status": "downloaded", "bytes": 624833, "source": "downloaded"}
+{"arxiv_id": "2603.01464", "title": "ProtRLSearch: A Multi-Round Multimodal Protein Search Agent with Large Language Models Trained via Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 1825646, "source": "downloaded"}
+{"arxiv_id": "2603.02795", "title": "VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 3798283, "source": "downloaded"}
+{"arxiv_id": "2603.03293", "title": "SE-Search: Self-Evolving Search Agent via Memory and Dense Reward", "year": "2026", "status": "downloaded", "bytes": 3077527, "source": "downloaded"}
+{"arxiv_id": "2603.04751", "title": "Evaluating the Search Agent in a Parallel World", "year": "2026", "status": "downloaded", "bytes": 1595752, "source": "downloaded"}
+{"arxiv_id": "2603.05218", "title": "KARL: Knowledge Agents via Reinforcement Learning", "year": "2026", "status": "downloaded", "bytes": 3543049, "source": "downloaded"}
+{"arxiv_id": "2603.05912", "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality", "year": "2026", "status": "downloaded", "bytes": 1708386, "source": "downloaded"}
+{"arxiv_id": "2603.07379", "title": "SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions", "year": "2026", "status": "downloaded", "bytes": 2704278, "source": "downloaded"}
+{"arxiv_id": "2603.07853", "title": "SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans", "year": "2026", "status": "downloaded", "bytes": 759363, "source": "downloaded"}
+{"arxiv_id": "2603.09203", "title": "Evaluate-as-Action: Self-Evaluated Process Rewards for Retrieval-Augmented Agents", "year": "2026", "status": "downloaded", "bytes": 727388, "source": "downloaded"}
+{"arxiv_id": "2603.10069", "title": "Improving Search Agent with One Line of Code", "year": "2026", "status": "downloaded", "bytes": 511608, "source": "downloaded"}
+{"arxiv_id": "2603.11327", "title": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search", "year": "2026", "status": "downloaded", "bytes": 1119909, "source": "downloaded"}
+{"arxiv_id": "2603.13853", "title": "APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution", "year": "2026", "status": "downloaded", "bytes": 1144777, "source": "downloaded"}
+{"arxiv_id": "2603.14468", "title": "LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos", "year": "2026", "status": "downloaded", "bytes": 1503425, "source": "downloaded"}
+{"arxiv_id": "2603.16289", "title": "VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents", "year": "2026", "status": "downloaded", "bytes": 4131146, "source": "downloaded"}
+{"arxiv_id": "2603.18516", "title": "Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents", "year": "2026", "status": "downloaded", "bytes": 1035775, "source": "downloaded"}
+{"arxiv_id": "2603.28361", "title": "Deep Research of Deep Research: From Transformer to Agent, From AI to AI for Science", "year": "2026", "status": "downloaded", "bytes": 6608671, "source": "downloaded"}
+{"arxiv_id": "2603.28407", "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome", "year": "2026", "status": "downloaded", "bytes": 2282439, "source": "downloaded"}
+{"arxiv_id": "2604.01195", "title": "ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget", "year": "2026", "status": "downloaded", "bytes": 1374222, "source": "downloaded"}
+{"arxiv_id": "2604.03675", "title": "PRAISE: Prefix-Based Rollout Reuse in Agentic Search Training", "year": "2026", "status": "downloaded", "bytes": 2143385, "source": "downloaded"}
+{"arxiv_id": "2604.04949", "title": "Learning to Retrieve from Agent Trajectories", "year": "2026", "status": "downloaded", "bytes": 2458646, "source": "downloaded"}
+{"arxiv_id": "2604.08124", "title": "Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search", "year": "2026", "status": "downloaded", "bytes": 953041, "source": "downloaded"}
+{"arxiv_id": "2604.11307", "title": "PaperScope: A Multi-Modal Multi-Document Benchmark for Agentic Deep Research Across Massive Scientific Papers", "year": "2026", "status": "downloaded", "bytes": 4100285, "source": "downloaded"}
+{"arxiv_id": "2604.12967", "title": "Cycle-Consistent Search", "year": "2026", "status": "downloaded", "bytes": 2162738, "source": "downloaded"}
+{"arxiv_id": "2604.14267", "title": "Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization", "year": "2026", "status": "downloaded", "bytes": 1644042, "source": "downloaded"}
+{"arxiv_id": "2604.14683", "title": "DR$^3$-Eval: Towards Realistic and Reproducible Deep Research Evaluation", "year": "2026", "status": "downloaded", "bytes": 1689684, "source": "downloaded"}
+{"arxiv_id": "2604.15148", "title": "IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning", "year": "2026", "status": "downloaded", "bytes": 5335442, "source": "downloaded"}
