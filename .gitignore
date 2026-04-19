@@ -1,0 +1,26 @@
+# Upstream awesome-list clones — reproducible from sources/MANIFEST.md
+sources/*
+!sources/MANIFEST.md
+
+# PDFs — storage strategy TBD, don't commit large binaries yet
+papers/*.pdf
+papers/**/*.pdf
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python / tooling caches (scrape scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Node (if any tooling lands here later)
+node_modules/
