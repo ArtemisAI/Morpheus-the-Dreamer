@@ -1,7 +1,7 @@
 # ArXiv PDF Cache
 
 Local cache of arXiv PDFs referenced across the Morpheus-the-Dreamer scraped index
-(`scraped/*/papers.jsonl`).
+(`corpus/sources/*/papers.jsonl`).
 
 ## Naming convention
 
@@ -12,7 +12,7 @@ Local cache of arXiv PDFs referenced across the Morpheus-the-Dreamer scraped ind
   version from arxiv.org (`https://arxiv.org/pdf/<id>.pdf`).
 - No metadata is embedded in the PDF filename or content. For author, title,
   venue, year, or cross-source provenance, look the arxiv_id up in the unified
-  index under `indexes/` (or the per-source rows in `scraped/*/papers.jsonl`).
+  index under `corpus/` (or the per-source rows in `corpus/sources/*/papers.jsonl`).
 
 ## Download convention
 

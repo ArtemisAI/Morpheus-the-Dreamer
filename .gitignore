@@ -1,7 +1,3 @@
-# Upstream awesome-list clones — reproducible from sources/MANIFEST.md
-sources/*
-!sources/MANIFEST.md
-
 # PDFs — storage strategy TBD, don't commit large binaries yet
 papers/*.pdf
 papers/**/*.pdf

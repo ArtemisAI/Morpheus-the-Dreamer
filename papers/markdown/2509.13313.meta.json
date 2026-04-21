@@ -1,0 +1,13 @@
+{
+  "arxiv_id": "2509.13313",
+  "converted_at": "2026-04-21T04:07:26Z",
+  "device": "cuda",
+  "docling_cli": "/home/artemisai/.local/bin/docling",
+  "duration_s": 25.89,
+  "has_images": false,
+  "has_tables": true,
+  "md_bytes": 106427,
+  "ocr_engine": "none",
+  "source_bytes": 1360337,
+  "source_pdf": "papers/arxiv/2509.13313.pdf"
+}

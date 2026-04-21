@@ -7,7 +7,7 @@ Last session ended: 2026-04-19 (reboot pending disk/GDrive setup).
 | Phase | Status | Evidence |
 |---|---|---|
 | Scaffold + README + .gitignore | ✅ | commit `d35eabc` |
-| Scrape 5 sources → structured metadata | ✅ | `scraped/*/papers.jsonl` + `papers.md` + `categories.md` |
+| Scrape 5 sources → structured metadata | ✅ | `corpus/sources/*/papers.jsonl` + `papers.md` + `categories.md` |
 | Cross-source dedup + unified index | ✅ | commit `58a27b4` — `indexes/unified.jsonl` (332 unique papers), `by-arxiv-id.md`, `by-year.md`, `by-source-coverage.md`, `by-method.md`, `STATS.md`, `aggregation-notes.md` |
 | ArXiv PDF download (291/291) | ✅ | commit `a856052` — `papers/arxiv/MANIFEST.jsonl` tracked; PDFs gitignored (local-only, ~1.0 GB) |
 
