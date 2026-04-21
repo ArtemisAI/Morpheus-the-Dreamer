@@ -1,0 +1,1 @@
+{"date": "2026-04-21", "window": {"from": "2026-04-01", "to": "2026-04-21"}, "query_count": 11, "results_returned": 1100, "new_after_dedup": 247, "db_inserts": 0, "duration_seconds": 56.75, "errors": [], "commit": false, "promote": false, "dry_run": false}

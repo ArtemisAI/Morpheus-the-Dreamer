@@ -250,3 +250,73 @@
 [227/291] 2601.11037 status=ok t=24.0s md_kb=74.4 err=
 [228/291] 2601.11888 status=ok t=23.3s md_kb=83.6 err=
 [229/291] 2601.12346 status=ok t=34.0s md_kb=82.9 err=
+[230/291] 2601.12538 status=ok t=58.4s md_kb=476.0 err=
+[progress 230/291] elapsed=107.0m rate=2.15/min eta=28m
+[231/291] 2601.13115 status=ok t=21.5s md_kb=67.7 err=
+[232/291] 2601.14615 status=ok t=34.5s md_kb=133.7 err=
+[233/291] 2601.17617 status=ok t=21.8s md_kb=65.9 err=
+[234/291] 2601.18467 status=ok t=22.0s md_kb=72.0 err=
+[235/291] 2601.20439 status=ok t=15.6s md_kb=34.6 err=
+[236/291] 2601.20975 status=ok t=19.8s md_kb=59.0 err=
+[237/291] 2601.21208 status=ok t=24.4s md_kb=68.6 err=
+[238/291] 2601.21654 status=ok t=29.1s md_kb=80.4 err=
+[239/291] 2601.21912 status=skipped t=0.0s md_kb=60.9 err=
+[240/291] 2602.00994 status=ok t=25.3s md_kb=71.5 err=
+[progress 240/291] elapsed=110.9m rate=2.16/min eta=24m
+[241/291] 2602.01590 status=ok t=24.2s md_kb=69.3 err=
+[242/291] 2602.02185 status=ok t=30.4s md_kb=49.9 err=
+[243/291] 2602.03304 status=ok t=20.8s md_kb=66.7 err=
+[244/291] 2602.03468 status=ok t=31.0s md_kb=96.8 err=
+[245/291] 2602.03647 status=ok t=29.2s md_kb=85.4 err=
+[246/291] 2602.03719 status=ok t=25.8s md_kb=105.2 err=
+[247/291] 2602.04284 status=ok t=24.6s md_kb=78.6 err=
+[248/291] 2602.04634 status=ok t=21.1s md_kb=74.5 err=
+[249/291] 2602.05975 status=ok t=22.1s md_kb=67.2 err=
+[250/291] 2602.07359 status=ok t=14.9s md_kb=33.3 err=
+[progress 250/291] elapsed=115.3m rate=2.17/min eta=19m
+[251/291] 2602.08234 status=ok t=25.9s md_kb=89.6 err=
+[252/291] 2602.11551 status=ok t=29.6s md_kb=73.0 err=
+[253/291] 2602.11685 status=ok t=33.0s md_kb=116.8 err=
+[254/291] 2602.11858 status=ok t=30.5s md_kb=123.7 err=
+[255/291] 2602.14234 status=ok t=47.6s md_kb=98.4 err=
+[256/291] 2602.18940 status=ok t=38.2s md_kb=114.5 err=
+[257/291] 2602.19526 status=ok t=25.7s md_kb=67.1 err=
+[258/291] 2602.21456 status=ok t=24.6s md_kb=79.3 err=
+[259/291] 2602.21534 status=ok t=33.4s md_kb=110.9 err=
+[260/291] 2602.22576 status=ok t=27.9s md_kb=59.3 err=
+[progress 260/291] elapsed=120.9m rate=2.15/min eta=14m
+[261/291] 2602.22675 status=ok t=23.2s md_kb=96.3 err=
+[262/291] 2602.22897 status=ok t=29.9s md_kb=110.3 err=
+[263/291] 2602.23166 status=ok t=29.1s md_kb=77.4 err=
+[264/291] 2603.01050 status=ok t=22.4s md_kb=73.3 err=
+[265/291] 2603.01152 status=ok t=15.1s md_kb=50.6 err=
+[266/291] 2603.01464 status=ok t=19.4s md_kb=35.0 err=
+[267/291] 2603.02795 status=ok t=20.0s md_kb=80.9 err=
+[268/291] 2603.03293 status=ok t=21.8s md_kb=55.1 err=
+[269/291] 2603.04751 status=ok t=26.5s md_kb=98.7 err=
+[270/291] 2603.05218 status=ok t=82.2s md_kb=397.5 err=
+[progress 270/291] elapsed=126.1m rate=2.14/min eta=10m
+[271/291] 2603.05912 status=ok t=28.0s md_kb=135.1 err=
+[272/291] 2603.07379 status=ok t=35.2s md_kb=134.1 err=
+[273/291] 2603.07853 status=ok t=21.4s md_kb=89.1 err=
+[274/291] 2603.09203 status=ok t=18.2s md_kb=50.3 err=
+[275/291] 2603.10069 status=ok t=22.9s md_kb=58.7 err=
+[276/291] 2603.11327 status=ok t=21.4s md_kb=90.0 err=
+[277/291] 2603.13853 status=ok t=19.6s md_kb=60.4 err=
+[278/291] 2603.14468 status=ok t=22.8s md_kb=68.9 err=
+[279/291] 2603.16289 status=ok t=26.2s md_kb=70.9 err=
+[280/291] 2603.18516 status=ok t=21.4s md_kb=64.3 err=
+[progress 280/291] elapsed=130.4m rate=2.15/min eta=5m
+[281/291] 2603.28361 status=ok t=27.1s md_kb=170.5 err=
+[282/291] 2603.28407 status=ok t=38.6s md_kb=143.6 err=
+[283/291] 2604.01195 status=ok t=41.8s md_kb=143.7 err=
+[284/291] 2604.03675 status=ok t=19.1s md_kb=42.3 err=
+[285/291] 2604.04949 status=ok t=20.1s md_kb=68.6 err=
+[286/291] 2604.08124 status=ok t=24.2s md_kb=68.9 err=
+[287/291] 2604.11307 status=ok t=30.1s md_kb=84.9 err=
+[288/291] 2604.12967 status=ok t=23.5s md_kb=69.4 err=
+[289/291] 2604.14267 status=ok t=28.6s md_kb=80.9 err=
+[290/291] 2604.14683 status=ok t=31.7s md_kb=119.1 err=
+[progress 290/291] elapsed=135.4m rate=2.14/min eta=0m
+[291/291] 2604.15148 status=ok t=30.9s md_kb=87.6 err=
+[done] 2026-04-21T04:59:31Z elapsed=136.0m processed=291
